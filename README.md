@@ -12,5 +12,5 @@ Due to the size and format, the presentation file cannot be rendered directly on
 
 **Please download the complete presentation file below:**
 
-[⬇️ DOWNLOAD: MIS Graduation Project Presentation (PPTX)](https://github.com/aliabbadi/Your-Repo-Name/blob/main/MIS-Graduation-Project-Presentation.pptx)
+[⬇️ DOWNLOAD: MIS Graduation Project Presentation (PPTX)] Mis Graduation/MIS-Graduation-Project-Presentation.pptx
 *(Please replace the link above with the actual file link from your repository)*
