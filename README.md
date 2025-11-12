@@ -10,7 +10,3 @@ Due to the size and format, the presentation file cannot be rendered directly on
 * Technical implementation of key features (e.g., custom discount system, E-commerce flow).
 * Results from **Functional, Accessibility, and Performance Testing**.
 
-**Please download the complete presentation file below:**
-
-[⬇️ DOWNLOAD: MIS Graduation Project Presentation (PPTX)] Mis Graduation/MIS-Graduation-Project-Presentation.pptx
-*(Please replace the link above with the actual file link from your repository)*
